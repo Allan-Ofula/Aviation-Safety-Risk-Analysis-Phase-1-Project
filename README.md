@@ -1,4 +1,4 @@
-# **AVIATION RISK ANALYSIS PROJECT**
+# **AVIATION SAFETY RISK ANALYSIS PROJECT**
 
 ## **Overview**
 This project involves the analysis of aviation accident data from 1962 to 2023 using real-world data from the National Transportation Safety Board (NTSB). The goal is to determine and provide actionable insights to the head of the aviation division about the safest and low risk aircrafts for a company expanding into the aviation industry to to help make informed decisions on aircraft purchases.
@@ -39,6 +39,8 @@ Risk distribution by aircraft type and accident severity
 ![alt text](image-5.png)
 
 These visualizations are presented in the project’s Jupyter notebook and integrated into an interactive Tableau dashboard for ease of exploration.
+View the interactive dashboard here:  
+[🔗 Click to View](https://public.tableau.com/app/profile/allan.ofula/viz/AVIATIONSAFETYRISKANALYSISVISUALIZATION/Dashboard1?publish=yes)
 
 ## **Conclusion**
 The analysis has identified key trends in aviation accidents and provided recommendations on which aircraft to prioritize based on their historical safety records. The three business recommendations based on the findings are as follows:
@@ -51,10 +53,13 @@ These insights will be shared with the head of avaition and stakeholders to info
 ## **Repository Structure:**
 README.md 
 -You're currently reading it!
+
 Jupyter Notebooks 
 -Contains all of the analysis work and documentation.
+
 Presentation 
 -A PDF of the non-technical presentation for stakeholders.
+
 Interactive Dashboard 
 -A link to the interactive Tableau dashboard where the visualizations can be explored in depth.
 
